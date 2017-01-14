@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'Reveal' target in the 'Reveal' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+  #define THEOS_INSTANCE_NAME "reveal_tweak"
+  #import "/opt/theos/Prefix.pch"
+#endif
