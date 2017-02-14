@@ -5,6 +5,6 @@
 可以直接使用打包好的deb：`Reveal/Packages/com.susnm.Reveal_1.0-1_iphoneos-arm.deb`
 
 ## new version
-![new reveal image](https://github.com/susnmos/RevealLoader2/Resource/Reveal-6.png)
+![new reveal image](RevealLoader2/Resource/Reveal-6.png)
 
 
