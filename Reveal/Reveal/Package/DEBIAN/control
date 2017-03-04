@@ -1,17 +1,17 @@
-Package: com.susnm.Reveal
+Package: com.susnm.RevealLoader
 Name: Reveal
 Version: 7
 Description: 
 Section: System
 Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: 
-Replaces: 
+Conflicts:
+Replaces: com.susnm.Reveal
 Priority: optional
 Architecture: iphoneos-arm
-Author: 王文臻
+Author: susnm
 dev: 
 Homepage: 
 Depiction: 
-Maintainer: 
+Maintainer: susnm
 Icon: 
 
