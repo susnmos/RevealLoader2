@@ -15,7 +15,6 @@
 /* Begin PBXFileReference section */
 		9E5E8FCB1E2A0E06009B1298 /* Reveal.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = Reveal.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E5E8FCE1E2A0E06009B1298 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		9E5E8FD31E2A0E06009B1298 /* control.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = control.txt; path = Package/DEBIAN/control.txt; sourceTree = "<group>"; };
 		9E5E8FD41E2A0E06009B1298 /* control */ = {isa = PBXFileReference; lastKnownFileType = text; name = control; path = Package/DEBIAN/control; sourceTree = "<group>"; };
 		9E5E8FD61E2A0E06009B1298 /* PackageVersion.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PackageVersion.plist; sourceTree = "<group>"; };
 		9E5E8FDA1E2A0E06009B1298 /* Reveal.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Reveal.plist; path = Package/Library/PreferenceLoader/Preferences/Reveal.plist; sourceTree = "<group>"; };
@@ -88,7 +87,6 @@
 		9E5E8FD21E2A0E06009B1298 /* DEBIAN */ = {
 			isa = PBXGroup;
 			children = (
-				9E5E8FD31E2A0E06009B1298 /* control.txt */,
 				9E5E8FD41E2A0E06009B1298 /* control */,
 			);
 			name = DEBIAN;
